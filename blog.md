@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/95529667/230091922-34ff2431-d361-470b-863f-5232ddc1b31d.jpg" alt="Benchmark" width="600" style="background-color:#2e3136">
+</p>
+
 ## WELCOME TO DECOS BLOGS
 
 ![maxresdefault](https://user-images.githubusercontent.com/95529667/230091922-34ff2431-d361-470b-863f-5232ddc1b31d.jpg)
