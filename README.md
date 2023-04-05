@@ -1,2 +1,3 @@
 # Decos-Blogs
-Blogs to introduce my personal shit,....
+
+blogs to introduce you to my irl self
