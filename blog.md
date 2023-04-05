@@ -1,6 +1,6 @@
-<p align="center">
 
-## WELCOME TO DECOS BLOGS
+
+ <p style="text-align: center;">## WELCOME TO DECOS BLOGS</p>
 
   <img src="https://user-images.githubusercontent.com/95529667/230091922-34ff2431-d361-470b-863f-5232ddc1b31d.jpg" alt="Benchmark" width="600" style="background-color:#2e3136">
 
@@ -60,4 +60,3 @@ will be my new blogging page and i'll delete it later!!!
 
 I had privated the Epik Funkin blog page, not deleted cuz archiving purposes...
 
-</p>
