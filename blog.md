@@ -45,3 +45,7 @@ I got in a lot of trouble so thats why i couldn't blog last day
 
 I figured out that the Epik Funkin blog page is useless and is unrelated to Epik Funkin, so this
 will be my new blogging page and i'll delete it later!!!
+
+# 09:02 - 05/04/2023
+
+I had privated the Epik Funkin blog page, not deleted cuz archiving purposes...
