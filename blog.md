@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/95529667/230091922-34ff2431-d361-470b-863f-5232ddc1b31d.jpg" alt="Benchmark" width="600" style="background-color:#2e3136">
-</p>
 
 ## WELCOME TO DECOS BLOGS
 
-![maxresdefault](https://user-images.githubusercontent.com/95529667/230091922-34ff2431-d361-470b-863f-5232ddc1b31d.jpg)
+  <img src="https://user-images.githubusercontent.com/95529667/230091922-34ff2431-d361-470b-863f-5232ddc1b31d.jpg" alt="Benchmark" width="600" style="background-color:#2e3136">
+
 
 # Here you can learn about my self and the tasks i do, and sometimes i can warn you of serious stuff or make updates
 
@@ -60,3 +59,5 @@ will be my new blogging page and i'll delete it later!!!
 # 09:02 - 05/04/2023
 
 I had privated the Epik Funkin blog page, not deleted cuz archiving purposes...
+
+</p>
